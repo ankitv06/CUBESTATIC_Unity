@@ -1,47 +1,50 @@
-Cubetastic is a Unity-based 3D platformer that challenges players to navigate a cube through a series of increasingly difficult obstacle courses.
+# Cubetastic
 
-🕹️ Core Gameplay Features
-1. Level-Based Progression
+**Cubetastic** is a Unity-based 3D platformer that challenges players to navigate a cube through a series of increasingly difficult obstacle courses.
 
-Navigate through structured levels filled with gaps, platforms, and challenges.
+## 🎮 Core Gameplay Features
 
-Each level increases in difficulty, testing your timing and control.
+### 1. Level-Based Progression
+- Navigate through structured levels filled with gaps, platforms, and challenges.
+- Each level increases in difficulty, testing your timing and control.
 
-2. Cube Movement Mechanics
+### 2. Cube Movement Mechanics
+- Use ‘A’ and ‘D’ keys for lateral movement — falling off means restarting the level.
 
-Use ‘A’ and ‘D’ keys for lateral movement — ​falling off means restarting the level.
+### 3. Instant Restart System
+- Quickly retry failed attempts without loading screens.
 
-3. Instant Restart System
+## 🛠️ Technologies Used
 
-Quickly retry failed attempts without loading screens.
+- **Unity**: For building the game engine and physics-based gameplay.
+- **C#**: For scripting game logic and interactions.
+- **Unity UI System**: To create menus, level indicators, and score displays.
+## 🎨 Credits
 
-🛠️ Technologies Used
-Unity: For building the game engine and physics-based gameplay.
+### 🎮 Game Assets & Icons
+- **Door Icon** by [kerismaker](https://www.flaticon.com/authors/kerismaker) – from [Flaticon](https://www.flaticon.com)  
+  *Used under the Flaticon Free License (attribution required)*
 
-C#: For scripting game logic and interactions.
+- **Unity Logo Icon** – from [Devicon GitHub Repository](https://github.com/devicons/devicon)  
+  *Licensed under MIT License*
 
-Unity UI System: To create menus, level indicators, and score displays.
+### 🎧 Music
+- **Menu Music**: *"8-bit Menu"* by David Renda – [Fesliyan Studios](https://www.fesliyanstudios.com)  
+  *Free use with attribution (via Fesliyan Studios license)*
 
-Credits
-🎮 Game Assets & Icons
-Door Icon by kerismaker – from Flaticon
-Used under the Flaticon Free License (attribution required)
+- **Gameplay Music**: *"Electro Beat – New Wave Disco"* by One Nug – [Pixabay](https://pixabay.com)  
+  *Free under the Pixabay Content License*
 
-Unity Logo Icon – from Devicon GitHub Repository
-Licensed under MIT License
+### 🔤 Fonts
+- **Roboto** – from [Google Fonts](https://fonts.google.com/specimen/Roboto)  
+  *Licensed under the Apache License, Version 2.0*
 
-🎧 Music
-Menu Music: "8-bit Menu" by David Renda – Fesliyan Studios
-Free use with attribution (via Fesliyan Studios license)
-
-Gameplay Music: "Electro Beat – New Wave Disco" by One Nug – Pixabay
-Free under the Pixabay Content License
-
-🔤 Fonts
-Roboto – from Google Fonts
-Licensed under the Apache License, Version 2.0
-
-TMP Default Fonts – Included with Unity TextMeshPro
-Used under Unity’s standard asset license
-
-⚠️ Best experienced on desktop with keyboard controls (A / D). Touch support not available yet.​
+- **TMP Default Fonts** – Included with Unity TextMeshPro  
+  *Used under Unity’s standard asset license*
+⚠️ *Best experienced on desktop with keyboard controls (A / D). Touch support not available yet.*
+  
+### Screenshots
+![Screenshot 2025-05-19 234035](https://github.com/user-attachments/assets/534fad23-beb8-410d-8719-c9f806a5b7f0)
+![Screenshot 2025-05-19 234409](https://github.com/user-attachments/assets/ac08c2d0-10c4-44f9-914e-afa9d18d3844)
+![Screenshot 2025-05-19 234535](https://github.com/user-attachments/assets/ce05e1dd-fd92-4cd0-b591-497b3d62b044)
+![Screenshot 2025-05-19 234639](https://github.com/user-attachments/assets/7f36a953-1a7f-4d1a-b0e5-2f1b389ea2a2)
