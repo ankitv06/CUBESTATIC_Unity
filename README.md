@@ -24,7 +24,7 @@
 ## 🎨 Credits
 
 ### 🎮 Game Assets & Icons
-- <a href="https://www.flaticon.com/free-icons/door" title="door icons">Door icons created by kerismaker - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/door" title="door icons">Door icons created by kerismaker - Flaticon</a>  
   *Used under the Flaticon Free License (attribution required)*
 
 - **Unity Logo Icon** – from [Devicon GitHub Repository](https://github.com/devicons/devicon)  
