@@ -1,6 +1,8 @@
 # Cubetastic
 
-**Cubetastic** is a Unity-based 3D platformer that challenges players to navigate a cube through a series of increasingly difficult obstacle courses.
+**Cubetastic** is a Unity-based 3D platformer that challenges players to navigate a cube through a series of increasingly difficult obstacle courses.  
+
+⚠️ *Best experienced on desktop with keyboard controls (A / D). Touch support not available yet.*
 
 ## 🎮 Core Gameplay Features
 
@@ -22,17 +24,17 @@
 ## 🎨 Credits
 
 ### 🎮 Game Assets & Icons
-- **Door Icon** by [kerismaker](https://www.flaticon.com/authors/kerismaker) – from [Flaticon](https://www.flaticon.com)  
+- <a href="https://www.flaticon.com/free-icons/door" title="door icons">Door icons created by kerismaker - Flaticon</a>
   *Used under the Flaticon Free License (attribution required)*
 
 - **Unity Logo Icon** – from [Devicon GitHub Repository](https://github.com/devicons/devicon)  
   *Licensed under MIT License*
 
 ### 🎧 Music
-- **Menu Music**: *"8-bit Menu"* by David Renda – [Fesliyan Studios](https://www.fesliyanstudios.com)  
+- **Menu Music**: *"8-bit Menu"* by David Renda – [Fesliyan Studios](https://www.fesliyanstudios.com/royalty-free-music/download/8-bit-menu/287)  
   *Free use with attribution (via Fesliyan Studios license)*
 
-- **Gameplay Music**: *"Electro Beat – New Wave Disco"* by One Nug – [Pixabay](https://pixabay.com)  
+- **Gameplay Music**: *"Electro Beat – New Wave Disco"* by One Nug – [Pixabay](https://pixabay.com/music/upbeat-electro-beat-new-wave-disco-332630/)  
   *Free under the Pixabay Content License*
 
 ### 🔤 Fonts
@@ -40,8 +42,7 @@
   *Licensed under the Apache License, Version 2.0*
 
 - **TMP Default Fonts** – Included with Unity TextMeshPro  
-  *Used under Unity’s standard asset license*
-⚠️ *Best experienced on desktop with keyboard controls (A / D). Touch support not available yet.*
+  *Used under Unity’s standard asset license*  
   
 ### Screenshots
 ![Screenshot 2025-05-19 234035](https://github.com/user-attachments/assets/534fad23-beb8-410d-8719-c9f806a5b7f0)
